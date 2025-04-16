@@ -43,8 +43,9 @@ my stars
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
 - [langchain-ai/langgraph-engineer](https://github.com/langchain-ai/langgraph-engineer)
 
-### Python (38)
+### Python (39)
 
+- [sierra-research/tau-bench](https://github.com/sierra-research/tau-bench) - Code and Data for Tau-Bench
 - [DannyMac180/meta-agent](https://github.com/DannyMac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
 - [VoxelCubes/PanelCleaner](https://github.com/VoxelCubes/PanelCleaner) - An AI-powered tool to clean manga panels.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
@@ -102,7 +103,7 @@ my stars
 
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 
-### TypeScript (26)
+### TypeScript (25)
 
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
 - [eastlondoner/cursor-tools](https://github.com/eastlondoner/cursor-tools) - Give Cursor Agent an AI Team and Advanced Skills
@@ -129,7 +130,6 @@ my stars
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [saifbechan/saifbechan.me](https://github.com/saifbechan/saifbechan.me) - Rocketeers have to find their path through obstacles to reach targets. They are helped by a genetic algorithm that advances good Rocketeers to the next stage. The genetic algorithm is written in Typescript and visualised with React and p5js.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [flaviuse/mern-authentication](https://github.com/flaviuse/mern-authentication) - MERN stack authentication boilerplate: password reset, email verification, server sessions, redux, typescript, hooks and docker for dev and prod.
 
 ### Unknown (7)
 

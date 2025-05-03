@@ -111,7 +111,7 @@ my stars
 - [fstandhartinger/generative-chat-ui](https://github.com/fstandhartinger/generative-chat-ui)
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
-- [kom-senapati/talk-to-page](https://github.com/kom-senapati/talk-to-page) - 🌐 Chat with any URL, anytime! 💬
+- [k0msenapati/talk-to-page](https://github.com/k0msenapati/talk-to-page) - 🌐 Chat with any URL, anytime! 💬
 - [devflowinc/firecrawl-simple](https://github.com/devflowinc/firecrawl-simple) - ➖ Stripped down, stable version of firecrawl optimized for self-hosting and ease of contribution. Billing logic and AI features are completely removed. Crawl and convert any website into LLM-ready markdown.
 - [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests

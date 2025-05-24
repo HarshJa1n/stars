@@ -29,7 +29,7 @@ my stars
 - [gokulkrishh/fuel-price](https://github.com/gokulkrishh/fuel-price) - ⛽ Check fuel prices daily in most of the states in India 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [dmarmion/AusElectorates](https://github.com/dmarmion/AusElectorates) - A React app for visualising the seats in the Australian House of Representatives
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [rishipr/mern-auth](https://github.com/rishipr/mern-auth) - MERN (+ Redux) user authentication boilerplate with Passport.js and JWT 
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 

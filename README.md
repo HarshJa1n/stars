@@ -24,6 +24,7 @@ my stars
 
 ### JavaScript (8)
 
+- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [geohacker/toll-plazas-india](https://github.com/geohacker/toll-plazas-india) - Dataset of highway toll collection centers published by the NHAI, updated monthly.
 - [gokulkrishh/fuel-price](https://github.com/gokulkrishh/fuel-price) - ⛽ Check fuel prices daily in most of the states in India 
@@ -31,7 +32,6 @@ my stars
 - [dmarmion/AusElectorates](https://github.com/dmarmion/AusElectorates) - A React app for visualising the seats in the Australian House of Representatives
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [rishipr/mern-auth](https://github.com/rishipr/mern-auth) - MERN (+ Redux) user authentication boilerplate with Passport.js and JWT 
-- [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 
 ### Jupyter Notebook (7)
 

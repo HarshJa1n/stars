@@ -105,7 +105,7 @@ my stars
 ### TypeScript (25)
 
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-- [eastlondoner/cursor-tools](https://github.com/eastlondoner/cursor-tools) - Give Cursor Agent an AI Team and Advanced Skills
+- [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - Give Cursor Agent an AI Team and Advanced Skills
 - [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) - 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
 - [fstandhartinger/generative-chat-ui](https://github.com/fstandhartinger/generative-chat-ui)
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.

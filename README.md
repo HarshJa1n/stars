@@ -16,11 +16,10 @@ my stars
 - [austinoboyle/scrape-linkedin-selenium](https://github.com/austinoboyle/scrape-linkedin-selenium) - `scrape_linkedin` is a python package that allows you to scrape personal LinkedIn profiles & company pages - turning the data into structured json.
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.
 
-### Java (3)
+### Java (2)
 
 - [senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-- [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
 
 ### JavaScript (8)
 
@@ -97,8 +96,9 @@ my stars
 
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 
-### TypeScript (27)
+### TypeScript (28)
 
+- [tomsoderlund/nextjs-pwa-firebase-boilerplate](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate) - Next.js serverless PWA with Firebase boilerplate
 - [kovrichard/catalyst](https://github.com/kovrichard/catalyst) - Next.js Starter Kit
 - [nainglinnkhant/lingua-time](https://github.com/nainglinnkhant/lingua-time) - A smart datetime picker which understands natural language input.
 - [karolkozer/planby](https://github.com/karolkozer/planby)

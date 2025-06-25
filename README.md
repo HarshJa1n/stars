@@ -4,7 +4,7 @@ my stars
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 100 repositories across 12 languages*
+*Total: 100 repositories across 13 languages*
 
 ### Dockerfile (1)
 
@@ -41,6 +41,10 @@ my stars
 - [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
 - [langchain-ai/langgraph-engineer](https://github.com/langchain-ai/langgraph-engineer)
+
+### MDX (1)
+
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 
 ### Python (38)
 
@@ -127,10 +131,9 @@ my stars
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [saifbechan/saifbechan.me](https://github.com/saifbechan/saifbechan.me) - Rocketeers have to find their path through obstacles to reach targets. They are helped by a genetic algorithm that advances good Rocketeers to the next stage. The genetic algorithm is written in Typescript and visualised with React and p5js.
 
-### Unknown (8)
+### Unknown (7)
 
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally.
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - Curated list of datasets and tools for post-training.

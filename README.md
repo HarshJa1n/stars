@@ -4,11 +4,15 @@ my stars
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 100 repositories across 13 languages*
+*Total: 100 repositories across 14 languages*
 
 ### Dockerfile (1)
 
 - [binakot/PostgreSQL-PostGIS-TimescaleDB](https://github.com/binakot/PostgreSQL-PostGIS-TimescaleDB) - PostgreSQL + PostGIS + TimescaleDB docker image 🐘🌎📈
+
+### Go (1)
+
+- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 
 ### HTML (3)
 
@@ -21,7 +25,7 @@ my stars
 - [senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 
-### JavaScript (8)
+### JavaScript (7)
 
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
@@ -30,7 +34,6 @@ my stars
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [dmarmion/AusElectorates](https://github.com/dmarmion/AusElectorates) - A React app for visualising the seats in the Australian House of Representatives
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [rishipr/mern-auth](https://github.com/rishipr/mern-auth) - MERN (+ Redux) user authentication boilerplate with Passport.js and JWT 
 
 ### Jupyter Notebook (7)
 
@@ -46,7 +49,7 @@ my stars
 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 
-### Python (38)
+### Python (37)
 
 - [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable browser using agents
 - [sierra-research/tau-bench](https://github.com/sierra-research/tau-bench) - Code and Data for Tau-Bench
@@ -85,7 +88,6 @@ my stars
 - [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper realtime streaming for long speech-to-text transcription and translation
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - [CVPR 2024] Official repository for "MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model"
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 
 ### Rust (2)
 
@@ -100,8 +102,9 @@ my stars
 
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 
-### TypeScript (28)
+### TypeScript (29)
 
+- [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [tomsoderlund/nextjs-pwa-firebase-boilerplate](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate) - Next.js serverless PWA with Firebase boilerplate
 - [kovrichard/catalyst](https://github.com/kovrichard/catalyst) - Next.js Starter Kit
 - [nainglinnkhant/lingua-time](https://github.com/nainglinnkhant/lingua-time) - A smart datetime picker which understands natural language input.

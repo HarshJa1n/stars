@@ -25,14 +25,13 @@ my stars
 - [senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 
-### JavaScript (6)
+### JavaScript (5)
 
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [geohacker/toll-plazas-india](https://github.com/geohacker/toll-plazas-india) - Dataset of highway toll collection centers published by the NHAI, updated monthly.
 - [gokulkrishh/fuel-price](https://github.com/gokulkrishh/fuel-price) - ⛽ Check fuel prices daily in most of the states in India 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [dmarmion/AusElectorates](https://github.com/dmarmion/AusElectorates) - A React app for visualising the seats in the Australian House of Representatives
 
 ### Jupyter Notebook (7)
 
@@ -101,8 +100,9 @@ my stars
 
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 
-### TypeScript (32)
+### TypeScript (33)
 
+- [supermemoryai/apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
 - [gensx-inc/gensx](https://github.com/gensx-inc/gensx) - The TypeScript framework for agents & workflows with react-like components. Lightning fast dev loop. Easy to learn. Easy to extend.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?

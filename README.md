@@ -28,11 +28,11 @@ my stars
 
 ### JavaScript (5)
 
+- [thymerapp/thymer-plugin-sdk](https://github.com/thymerapp/thymer-plugin-sdk) - Docs, API and SDK to develop Plugins for Thymer!
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [geohacker/toll-plazas-india](https://github.com/geohacker/toll-plazas-india) - Dataset of highway toll collection centers published by the NHAI, updated monthly.
 - [gokulkrishh/fuel-price](https://github.com/gokulkrishh/fuel-price) - ⛽ Check fuel prices daily in most of the states in India 
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ### Jupyter Notebook (7)
 

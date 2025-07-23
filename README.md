@@ -6,8 +6,9 @@ my stars
 
 *Total: 100 repositories across 14 languages*
 
-### Go (2)
+### Go (3)
 
+- [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) - A Go-based MCP (Model Control Protocol) connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool provides a seamless interface for AI models to perform common Jira operations including issue management, sprint planning, and workflow transitions.
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 
@@ -23,13 +24,12 @@ my stars
 - [senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 
-### JavaScript (5)
+### JavaScript (4)
 
 - [thymerapp/thymer-plugin-sdk](https://github.com/thymerapp/thymer-plugin-sdk) - Docs, API and SDK to develop Plugins for Thymer!
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [geohacker/toll-plazas-india](https://github.com/geohacker/toll-plazas-india) - Dataset of highway toll collection centers published by the NHAI, updated monthly.
-- [gokulkrishh/fuel-price](https://github.com/gokulkrishh/fuel-price) - ⛽ Check fuel prices daily in most of the states in India 
 
 ### Jupyter Notebook (7)
 

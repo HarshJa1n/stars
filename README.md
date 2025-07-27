@@ -24,12 +24,11 @@ my stars
 - [senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 
-### JavaScript (4)
+### JavaScript (3)
 
 - [thymerapp/thymer-plugin-sdk](https://github.com/thymerapp/thymer-plugin-sdk) - Docs, API and SDK to develop Plugins for Thymer!
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
-- [geohacker/toll-plazas-india](https://github.com/geohacker/toll-plazas-india) - Dataset of highway toll collection centers published by the NHAI, updated monthly.
 
 ### Jupyter Notebook (7)
 
@@ -97,8 +96,9 @@ my stars
 
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 
-### TypeScript (32)
+### TypeScript (33)
 
+- [jammwork/jammwork](https://github.com/jammwork/jammwork) - Collaborative canvas built for teams to draw, ideate, and jam together in real-time.
 - [supermemoryai/apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
 - [gensx-inc/gensx](https://github.com/gensx-inc/gensx) - The TypeScript framework for agents & workflows with react-like components. Lightning fast dev loop. Easy to learn. Easy to extend.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui

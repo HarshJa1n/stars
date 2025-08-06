@@ -43,8 +43,11 @@ my stars
 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 
-### Python (34)
+### Python (36)
 
+- [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) - [COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild
+- [i-am-bee/beeai-platform](https://github.com/i-am-bee/beeai-platform) - Discover, run, and compose AI agents from any framework.
+- [jbexta/AgentPilot](https://github.com/jbexta/AgentPilot) - A versatile workflow automation platform to create, organize, and execute AI workflows, from a single LLM to complex AI-driven workflows.
 - [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable browser using agents
 - [sierra-research/tau-bench](https://github.com/sierra-research/tau-bench) - Code and Data for Tau-Bench
 - [DannyMac180/meta-agent](https://github.com/DannyMac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
@@ -78,12 +81,11 @@ my stars
 - [InternLM/lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
-- [harshyadav1508/Audio_speakerRecognition](https://github.com/harshyadav1508/Audio_speakerRecognition) - this repo contain py code for speaker Recognition
 
 ### Rust (2)
 
+- [picahq/pica](https://github.com/picahq/pica) - The Complete Agentic Tooling Platform
 - [spider-rs/spider-py](https://github.com/spider-rs/spider-py) - Spider ported to Python
-- [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
 
 ### Shell (1)
 
@@ -132,13 +134,11 @@ my stars
 - [cloudflare/workers-ai-provider](https://github.com/cloudflare/workers-ai-provider) - A Workers AI provider for the vercel AI SDK
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 
-### Unknown (5)
+### Unknown (3)
 
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally.
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-- [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - Curated list of datasets and tools for post-training.
-- [wq2012/awesome-diarization](https://github.com/wq2012/awesome-diarization) - A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.
 
 ### Vue (1)
 

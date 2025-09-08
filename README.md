@@ -4,7 +4,7 @@ my stars
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 100 repositories across 14 languages*
+*Total: 100 repositories across 13 languages*
 
 ### Go (3)
 
@@ -95,13 +95,14 @@ my stars
 
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 
-### TypeScript (36)
+### TypeScript (37)
 
 - [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
 - [allenyan513/nextjs-nestjs-saas-starter](https://github.com/allenyan513/nextjs-nestjs-saas-starter) - A high-performance SaaS starter template using Next.js, NestJS, PostgreSQL, Prisma, Tailwind CSS, and shadcn/ui—designed for modern full-stack development with a Turborepo monorepo setup.
 - [AlexanderC/nestjs-mtenant](https://github.com/AlexanderC/nestjs-mtenant) - NestJS - an module to enable multitenancy support with deep integration into the system as whole
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [jammwork/jammwork](https://github.com/jammwork/jammwork) - Collaborative canvas built for teams to draw, ideate, and jam together in real-time.
+- [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 - [supermemoryai/apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
 - [gensx-inc/gensx](https://github.com/gensx-inc/gensx) - The TypeScript framework for agents & workflows with react-like components. Lightning fast dev loop. Easy to learn. Easy to extend.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
@@ -139,10 +140,6 @@ my stars
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally.
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-
-### Vue (1)
-
-- [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 
 ### Zig (1)
 

@@ -95,8 +95,9 @@ my stars
 
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 
-### TypeScript (38)
+### TypeScript (39)
 
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
 - [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
 - [allenyan513/nextjs-nestjs-saas-starter](https://github.com/allenyan513/nextjs-nestjs-saas-starter) - A high-performance SaaS starter template using Next.js, NestJS, PostgreSQL, Prisma, Tailwind CSS, and shadcn/ui—designed for modern full-stack development with a Turborepo monorepo setup.
 - [AlexanderC/nestjs-mtenant](https://github.com/AlexanderC/nestjs-mtenant) - NestJS - an module to enable multitenancy support with deep integration into the system as whole
@@ -136,10 +137,9 @@ my stars
 - [langchain-ai/langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.js starter template
 - [cloudflare/workers-ai-provider](https://github.com/cloudflare/workers-ai-provider) - A Workers AI provider for the vercel AI SDK
 
-### Unknown (2)
+### Unknown (1)
 
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
-- [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 
 ### Zig (1)
 

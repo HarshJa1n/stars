@@ -29,7 +29,7 @@ my stars
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 
-### Jupyter Notebook (7)
+### Jupyter Notebook (6)
 
 - [GeminiLight/awesome-ai-llm4education](https://github.com/GeminiLight/awesome-ai-llm4education) - Awesome artificial intelligence (AI) and large language model (LLM) for education papers.
 - [gcapde/eval_llms_edutech_assessment](https://github.com/gcapde/eval_llms_edutech_assessment) - Repository of the article "Leveraging LLMs for K-12 Education Assessment: An Open-Ended Question Answering Use Case" presented at the IEEE URUCON 2024 conference.
@@ -37,13 +37,12 @@ my stars
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
-- [langchain-ai/langgraph-engineer](https://github.com/langchain-ai/langgraph-engineer)
 
 ### MDX (1)
 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 
-### Python (34)
+### Python (35)
 
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text model
@@ -79,6 +78,7 @@ my stars
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [cullenwatson/StaffSpy](https://github.com/cullenwatson/StaffSpy) - Staff fetcher library for LinkedIn - obtain experiences, schools, skills & contact info
+- [InternLM/lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents
 
 ### Rust (3)
 

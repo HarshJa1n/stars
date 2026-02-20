@@ -101,7 +101,7 @@ my stars
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
 - [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
 - [allenyan513/nextjs-nestjs-saas-starter](https://github.com/allenyan513/nextjs-nestjs-saas-starter) - A high-performance SaaS starter template using Next.js, NestJS, PostgreSQL, Prisma, Tailwind CSS, and shadcn/ui—designed for modern full-stack development with a Turborepo monorepo setup.
-- [AlexanderC/nestjs-mtenant](https://github.com/AlexanderC/nestjs-mtenant) - NestJS - an module to enable multitenancy support with deep integration into the system as whole
+- [AlexanderC/nestjs-mtenant](https://github.com/AlexanderC/nestjs-mtenant) - NestJS module to enable deep multitenancy support.
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [jammwork/jammwork](https://github.com/jammwork/jammwork) - Collaborative canvas built for teams to draw, ideate, and jam together in real-time.
 - [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端

@@ -96,6 +96,7 @@ my stars
 
 ### TypeScript (40)
 
+- [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [heyito/ito](https://github.com/heyito/ito) - [DEPRECATED] Ito, smart dictation in every application
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
 - [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
@@ -135,7 +136,6 @@ my stars
 - [bracesproul/langgraphjs-examples](https://github.com/bracesproul/langgraphjs-examples) - Repository containing LangGraph.js🦜🕸️ examples
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [langchain-ai/langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.js starter template
-- [cloudflare/workers-ai-provider](https://github.com/cloudflare/workers-ai-provider) - A Workers AI provider for the vercel AI SDK
 
 ### Unknown (1)
 

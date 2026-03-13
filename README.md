@@ -42,9 +42,10 @@ my stars
 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 
-### Python (33)
+### Python (34)
 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text model
 - [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) - [COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild
 - [i-am-bee/agentstack](https://github.com/i-am-bee/agentstack) - Deploy, and share agents with open infrastructure, free from vendor lock-in.
@@ -93,12 +94,11 @@ my stars
 
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 
-### TypeScript (41)
+### TypeScript (40)
 
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [heyito/ito](https://github.com/heyito/ito) - [DEPRECATED] Ito, smart dictation in every application
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
 - [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
 - [allenyan513/nextjs-nestjs-saas-starter](https://github.com/allenyan513/nextjs-nestjs-saas-starter) - A high-performance SaaS starter template using Next.js, NestJS, PostgreSQL, Prisma, Tailwind CSS, and shadcn/ui—designed for modern full-stack development with a Turborepo monorepo setup.
 - [AlexanderC/nestjs-mtenant](https://github.com/AlexanderC/nestjs-mtenant) - NestJS module to enable deep multitenancy support.
@@ -130,7 +130,7 @@ my stars
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 - [mapembert/bolt.new-any-llm](https://github.com/mapembert/bolt.new-any-llm)
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 - [bracesproul/langgraphjs-examples](https://github.com/bracesproul/langgraphjs-examples) - Repository containing LangGraph.js🦜🕸️ examples

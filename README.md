@@ -46,7 +46,7 @@ my stars
 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?"  Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text model
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text models
 - [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) - [COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild
 - [i-am-bee/agentstack](https://github.com/i-am-bee/agentstack) - Deploy, and share agents with open infrastructure, free from vendor lock-in.
 - [jbexta/AgentPilot](https://github.com/jbexta/AgentPilot) - A versatile workflow automation platform to create, organize, and execute AI workflows, from a single LLM to complex AI-driven workflows.
@@ -107,7 +107,7 @@ my stars
 - [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 - [supermemoryai/apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
 - [gensx-inc/gensx](https://github.com/gensx-inc/gensx) - The TypeScript framework for agents & workflows with react-like components. Lightning fast dev loop. Easy to learn. Easy to extend.
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [tomsoderlund/nextjs-pwa-firebase-boilerplate](https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate) - Next.js serverless PWA with Firebase boilerplate

@@ -83,7 +83,7 @@ my stars
 - [withoneai/pica](https://github.com/withoneai/pica) - The community edition of Pica, the agentic tooling platform.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [spider-rs/spider-py](https://github.com/spider-rs/spider-py) - Spider ported to Python
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
 
 ### Shell (2)
 

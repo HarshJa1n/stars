@@ -96,7 +96,7 @@ my stars
 
 ### TypeScript (40)
 
-- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) - Collaborator is a place to create with agents.
 - [drivebase/drivebase](https://github.com/drivebase/drivebase) - Drivebase is a cloud-agnostic file management platform for people and teams using multiple storage providers. 🚀 
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - Open-source localization engineering tools. Connects to Lingo.dev localization engineering platform for consistent, quality translations.

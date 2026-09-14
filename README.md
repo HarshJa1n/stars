@@ -63,7 +63,7 @@ my stars
 - [ArcadeAI/arcade-mcp](https://github.com/ArcadeAI/arcade-mcp) - MCP Server Framework and Tool Development library for building custom capabilities into agents. 
 - [lgesuellip/researcher_agent](https://github.com/lgesuellip/researcher_agent) - An application built on the Model Context Protocol (MCP) that transforms any website into highly relevant content based on your queries. The app seamlessly integrates with platforms like X, Slack, and among others.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent for web automation, undetected by anti-bot systems: a web browsing agent on a stealth Firefox that is not flagged as a bot, not blocked, and does not trigger captchas. Plain-English tasks, computer-use agent, browser MCP for Claude Code and Gemini CLI.
+- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.
 - [zi-yue-1129/DATAGEN](https://github.com/zi-yue-1129/DATAGEN) - DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. 
 - [ag2ai/ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.

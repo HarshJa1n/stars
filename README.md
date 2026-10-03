@@ -83,7 +83,7 @@ my stars
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [withoneai/pica](https://github.com/withoneai/pica) - The community edition of Pica, the agentic tooling platform.
 - [spider-rs/spider-py](https://github.com/spider-rs/spider-py) - Spider ported to Python
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 
 ### Shell (2)
 

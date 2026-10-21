@@ -134,7 +134,7 @@ my stars
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
 - [bracesproul/langgraphjs-examples](https://github.com/bracesproul/langgraphjs-examples) - Repository containing LangGraph.js🦜🕸️ examples
-- [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.
+- [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - Your Personal Librarian Agent. Ask anything on your computer, organize files, remember important info and files.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
 ### Unknown (1)

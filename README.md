@@ -62,7 +62,7 @@ my stars
 - [ArcadeAI/arcade-mcp](https://github.com/ArcadeAI/arcade-mcp) - MCP Server Framework and Tool Development library for building custom capabilities into agents. 
 - [lgesuellip/researcher_agent](https://github.com/lgesuellip/researcher_agent) - An application built on the Model Context Protocol (MCP) that transforms any website into highly relevant content based on your queries. The app seamlessly integrates with platforms like X, Slack, and among others.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Give it your resume, get the jobs that fit, select them and apply. Runs in your terminal, with a browser you can watch.
+- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep.
 - [zi-yue-1129/DATAGEN](https://github.com/zi-yue-1129/DATAGEN) - DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. 
 - [ag2ai/ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
@@ -83,11 +83,11 @@ my stars
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [withoneai/pica](https://github.com/withoneai/pica) - The community edition of Pica, the agentic tooling platform.
 - [spider-rs/spider-py](https://github.com/spider-rs/spider-py) - Spider ported to Python
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.
 
 ### Shell (2)
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
 
 ### Swift (1)
@@ -115,7 +115,7 @@ my stars
 - [nainglinnkhant/lingua-time](https://github.com/nainglinnkhant/lingua-time) - A smart datetime picker which understands natural language input.
 - [karolkozer/planby](https://github.com/karolkozer/planby) - Planby is a component for a quick implementation of Schedules, Timelines, Electronic Program Guide, Calendar Planner, Music Events and many more ideas. It uses a custom virtual view which allows you to operate on a really big amount of data.
 - [DannyMac180/meta-agent](https://github.com/DannyMac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.
 - [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - Give Cursor Agent an AI Team and Advanced Skills
 - [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) - 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
 - [fstandhartinger/generative-chat-ui](https://github.com/fstandhartinger/generative-chat-ui)
